@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning full stack development in MERN Stack.
 - 🎓 MS in Computer Engineering at The University of Texas at Arlington.
-- 👯 I’m looking for internship and full-time job opportunities in the US from December 2021
+- 👯 I’m looking for internship opportunites for Summer 2021 and full-time job opportunities in the US from December 2021
 - 🥅 2021 Goals: Learn as much as I can and focus on building personal projects.
 - ⚡ Fun fact: I love reading, listening to music and meeting new people.
 
